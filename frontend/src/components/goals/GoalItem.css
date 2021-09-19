@@ -1,0 +1,13 @@
+.goal-item {
+  padding: 1rem;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  border: 1px solid orange;
+  color: white;
+  background-color: orange;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  width: 100%;
+  cursor: pointer;
+}
